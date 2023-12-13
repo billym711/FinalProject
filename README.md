@@ -1,5 +1,5 @@
-# Project 7: Updated Note-Taking App
-An Android app that allows a user to sign up or log in and create notes.
+# Final Project: Food Delivery App
+An Android app that simulates a Food Delivery style app (does not actually allow for ordering/payment processing).
 
 ## Functionality 
 
@@ -9,8 +9,10 @@ The following **required** functionality is completed:
 * [ ] User can register with an email and password
 * [ ] Accounts are stored in FireBase for authentication
 * [ ] User can log out to go back to the login screen
-* [ ] User can add notes with a title and description
-* [ ] Notes are stored in a database
+* [ ] User can store three favorite restaurants
+* [ ] User can select from a list of all restaurants
+* [ ] User can increase or decrease the quantity of each item that they want to order
+* [ ] User can check out to place the order, and then place more orders if desired
 
 The following **extensions** are implemented:
 
@@ -20,7 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Project7Demo.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='FinalProject.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
